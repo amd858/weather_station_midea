@@ -1,0 +1,32 @@
+A:
+	AC_OFF
+    BOUNCE_FOR_AC_ON
+    AC_ON
+    BOUNC_FOR_AC_OFF
+    BOUNC_FOR_DISABL
+    AC_DISABLED
+    BOUN_FO_AC_ENABL
+    !SENSOR_FAULT!
+
+	HEATER_OFF
+	BONC_FOR_HEAT_ON
+	HEATER_ON
+	BONC_FOR_HEAT_OF
+	BOUNC_FOR_DISABL
+	HEATER_DISABLED
+	BOUN_FOR_ENABLE
+	!SENSOR_FAULT!
+B:Temperature
+C:Humidity
+D:Heat index
+E:Humidifier Status
+F:Target
+G:
+Heater Cooler Selector currently on heater mode 
+default set 20c heater mode range is 16.5 23.5
+and in cooler mode set 27c cooler mode range is 23.5 30.5
+H:0.5
+I:1.0
+J:2.0
+K:*Minus (-)
+L:Indoor unit on/off
