@@ -1,0 +1,600 @@
+0-4539 Gray code: Phases: 0
+4539-8971 Gray code: Phases: 1
+8971-13334 Gray code: Phases: 0
+13334-13908 Gray code: Phases: 1
+13908-15487 Gray code: Phases: 0
+15487-16060 Gray code: Phases: 1
+16060-16564 Gray code: Phases: 0
+16564-17137 Gray code: Phases: 1
+17137-18717 Gray code: Phases: 0
+18717-19290 Gray code: Phases: 1
+19290-20870 Gray code: Phases: 0
+20870-21443 Gray code: Phases: 1
+21443-21946 Gray code: Phases: 0
+21946-22519 Gray code: Phases: 1
+22519-23022 Gray code: Phases: 0
+23022-23595 Gray code: Phases: 1
+23595-25175 Gray code: Phases: 0
+25175-25749 Gray code: Phases: 1
+25749-26252 Gray code: Phases: 0
+26252-26825 Gray code: Phases: 1
+26825-27328 Gray code: Phases: 0
+27328-27901 Gray code: Phases: 1
+27901-29481 Gray code: Phases: 0
+29481-30054 Gray code: Phases: 1
+30054-30558 Gray code: Phases: 0
+30558-31131 Gray code: Phases: 1
+31131-31634 Gray code: Phases: 0
+31634-32207 Gray code: Phases: 1
+32207-33787 Gray code: Phases: 0
+33787-34360 Gray code: Phases: 1
+34360-35940 Gray code: Phases: 0
+35940-36513 Gray code: Phases: 1
+36513-37017 Gray code: Phases: 0
+37017-37590 Gray code: Phases: 1
+37590-39169 Gray code: Phases: 0
+39169-39743 Gray code: Phases: 1
+39743-41322 Gray code: Phases: 0
+41322-41896 Gray code: Phases: 1
+41896-42399 Gray code: Phases: 0
+42399-42972 Gray code: Phases: 1
+42972-44552 Gray code: Phases: 0
+44552-45125 Gray code: Phases: 1
+45125-46705 Gray code: Phases: 0
+46705-47278 Gray code: Phases: 1
+47278-48858 Gray code: Phases: 0
+48858-49431 Gray code: Phases: 1
+49431-51011 Gray code: Phases: 0
+51011-51584 Gray code: Phases: 1
+51584-53164 Gray code: Phases: 0
+53164-53737 Gray code: Phases: 1
+53737-55317 Gray code: Phases: 0
+55317-55890 Gray code: Phases: 1
+55890-56393 Gray code: Phases: 0
+56393-56966 Gray code: Phases: 1
+56966-58546 Gray code: Phases: 0
+58546-59119 Gray code: Phases: 1
+59119-59622 Gray code: Phases: 0
+59622-60196 Gray code: Phases: 1
+60196-60699 Gray code: Phases: 0
+60699-61272 Gray code: Phases: 1
+61272-61775 Gray code: Phases: 0
+61775-62348 Gray code: Phases: 1
+62348-62852 Gray code: Phases: 0
+62852-63425 Gray code: Phases: 1
+63425-63928 Gray code: Phases: 0
+63928-64502 Gray code: Phases: 1
+64502-65005 Gray code: Phases: 0
+65005-65578 Gray code: Phases: 1
+65578-66081 Gray code: Phases: 0
+66081-66654 Gray code: Phases: 1
+66654-67158 Gray code: Phases: 0
+67158-67731 Gray code: Phases: 1
+67731-69311 Gray code: Phases: 0
+69311-69884 Gray code: Phases: 1
+69884-70387 Gray code: Phases: 0
+70387-70960 Gray code: Phases: 1
+70960-72540 Gray code: Phases: 0
+72540-73113 Gray code: Phases: 1
+73113-74693 Gray code: Phases: 0
+74693-75266 Gray code: Phases: 1
+75266-75770 Gray code: Phases: 0
+75770-76343 Gray code: Phases: 1
+76343-76846 Gray code: Phases: 0
+76846-77419 Gray code: Phases: 1
+77419-78999 Gray code: Phases: 0
+78999-79572 Gray code: Phases: 1
+79572-81152 Gray code: Phases: 0
+81152-81725 Gray code: Phases: 1
+81725-82228 Gray code: Phases: 0
+82228-82802 Gray code: Phases: 1
+82802-84381 Gray code: Phases: 0
+84381-84955 Gray code: Phases: 1
+84955-85458 Gray code: Phases: 0
+85458-86031 Gray code: Phases: 1
+86031-86534 Gray code: Phases: 0
+86534-87108 Gray code: Phases: 1
+87108-88687 Gray code: Phases: 0
+88687-89260 Gray code: Phases: 1
+89260-90840 Gray code: Phases: 0
+90840-91413 Gray code: Phases: 1
+91413-96590 Gray code: Phases: 0
+96590-101023 Gray code: Phases: 1
+101023-105386 Gray code: Phases: 0
+105386-105959 Gray code: Phases: 1
+105959-107539 Gray code: Phases: 0
+107539-108112 Gray code: Phases: 1
+108112-108615 Gray code: Phases: 0
+108615-109189 Gray code: Phases: 1
+109189-110768 Gray code: Phases: 0
+110768-111341 Gray code: Phases: 1
+111341-112921 Gray code: Phases: 0
+112921-113494 Gray code: Phases: 1
+113494-113998 Gray code: Phases: 0
+113998-114571 Gray code: Phases: 1
+114571-115074 Gray code: Phases: 0
+115074-115647 Gray code: Phases: 1
+115647-117227 Gray code: Phases: 0
+117227-117800 Gray code: Phases: 1
+117800-118304 Gray code: Phases: 0
+118304-118877 Gray code: Phases: 1
+118877-119380 Gray code: Phases: 0
+119380-119953 Gray code: Phases: 1
+119953-121533 Gray code: Phases: 0
+121533-122106 Gray code: Phases: 1
+122106-122609 Gray code: Phases: 0
+122609-123183 Gray code: Phases: 1
+123183-123686 Gray code: Phases: 0
+123686-124259 Gray code: Phases: 1
+124259-125839 Gray code: Phases: 0
+125839-126412 Gray code: Phases: 1
+126412-127992 Gray code: Phases: 0
+127992-128565 Gray code: Phases: 1
+128565-129068 Gray code: Phases: 0
+129068-129642 Gray code: Phases: 1
+129642-131221 Gray code: Phases: 0
+131221-131795 Gray code: Phases: 1
+131795-133374 Gray code: Phases: 0
+133374-133947 Gray code: Phases: 1
+133947-134451 Gray code: Phases: 0
+134451-135024 Gray code: Phases: 1
+135024-136604 Gray code: Phases: 0
+136604-137177 Gray code: Phases: 1
+137177-138757 Gray code: Phases: 0
+138757-139330 Gray code: Phases: 1
+139330-140910 Gray code: Phases: 0
+140910-141483 Gray code: Phases: 1
+141483-143063 Gray code: Phases: 0
+143063-143636 Gray code: Phases: 1
+143636-145215 Gray code: Phases: 0
+145215-145789 Gray code: Phases: 1
+145789-147368 Gray code: Phases: 0
+147368-147942 Gray code: Phases: 1
+147942-148445 Gray code: Phases: 0
+148445-149018 Gray code: Phases: 1
+149018-150598 Gray code: Phases: 0
+150598-151171 Gray code: Phases: 1
+151171-151674 Gray code: Phases: 0
+151674-152247 Gray code: Phases: 1
+152247-152751 Gray code: Phases: 0
+152751-153324 Gray code: Phases: 1
+153324-153827 Gray code: Phases: 0
+153827-154400 Gray code: Phases: 1
+154400-154904 Gray code: Phases: 0
+154904-155477 Gray code: Phases: 1
+155477-155980 Gray code: Phases: 0
+155980-156553 Gray code: Phases: 1
+156553-157057 Gray code: Phases: 0
+157057-157630 Gray code: Phases: 1
+157630-158133 Gray code: Phases: 0
+158133-158706 Gray code: Phases: 1
+158706-159210 Gray code: Phases: 0
+159210-159783 Gray code: Phases: 1
+159783-161363 Gray code: Phases: 0
+161363-161936 Gray code: Phases: 1
+161936-162439 Gray code: Phases: 0
+162439-163012 Gray code: Phases: 1
+163012-164592 Gray code: Phases: 0
+164592-165165 Gray code: Phases: 1
+165165-166745 Gray code: Phases: 0
+166745-167318 Gray code: Phases: 1
+167318-167821 Gray code: Phases: 0
+167821-168395 Gray code: Phases: 1
+168395-168898 Gray code: Phases: 0
+168898-169471 Gray code: Phases: 1
+169471-171051 Gray code: Phases: 0
+171051-171624 Gray code: Phases: 1
+171624-173204 Gray code: Phases: 0
+173204-173777 Gray code: Phases: 1
+173777-174280 Gray code: Phases: 0
+174280-174853 Gray code: Phases: 1
+174853-176433 Gray code: Phases: 0
+176433-177006 Gray code: Phases: 1
+177006-177510 Gray code: Phases: 0
+177510-178083 Gray code: Phases: 1
+178083-178586 Gray code: Phases: 0
+178586-179159 Gray code: Phases: 1
+179159-180739 Gray code: Phases: 0
+180739-181312 Gray code: Phases: 1
+181312-182892 Gray code: Phases: 0
+182892-183465 Gray code: Phases: 1
+0-4539 Gray code: Intervals: 4.53 ms, 220 Hz
+4539-8971 Gray code: Intervals: 4.43 ms, 225 Hz
+8971-13334 Gray code: Intervals: 4.36 ms, 229 Hz
+13334-13908 Gray code: Intervals: 574 탎, 1.74 kHz
+13908-15487 Gray code: Intervals: 1.57 ms, 633 Hz
+15487-16060 Gray code: Intervals: 573 탎, 1.75 kHz
+16060-16564 Gray code: Intervals: 504 탎, 1.98 kHz
+16564-17137 Gray code: Intervals: 573 탎, 1.75 kHz
+17137-18717 Gray code: Intervals: 1.58 ms, 632 Hz
+18717-19290 Gray code: Intervals: 573 탎, 1.75 kHz
+19290-20870 Gray code: Intervals: 1.58 ms, 632 Hz
+20870-21443 Gray code: Intervals: 573 탎, 1.75 kHz
+21443-21946 Gray code: Intervals: 503 탎, 1.99 kHz
+21946-22519 Gray code: Intervals: 573 탎, 1.75 kHz
+22519-23022 Gray code: Intervals: 503 탎, 1.99 kHz
+23022-23595 Gray code: Intervals: 573 탎, 1.75 kHz
+23595-25175 Gray code: Intervals: 1.58 ms, 632 Hz
+25175-25749 Gray code: Intervals: 574 탎, 1.74 kHz
+25749-26252 Gray code: Intervals: 503 탎, 1.99 kHz
+26252-26825 Gray code: Intervals: 573 탎, 1.75 kHz
+26825-27328 Gray code: Intervals: 503 탎, 1.99 kHz
+27328-27901 Gray code: Intervals: 573 탎, 1.75 kHz
+27901-29481 Gray code: Intervals: 1.58 ms, 632 Hz
+29481-30054 Gray code: Intervals: 573 탎, 1.75 kHz
+30054-30558 Gray code: Intervals: 504 탎, 1.98 kHz
+30558-31131 Gray code: Intervals: 573 탎, 1.75 kHz
+31131-31634 Gray code: Intervals: 503 탎, 1.99 kHz
+31634-32207 Gray code: Intervals: 573 탎, 1.75 kHz
+32207-33787 Gray code: Intervals: 1.58 ms, 632 Hz
+33787-34360 Gray code: Intervals: 573 탎, 1.75 kHz
+34360-35940 Gray code: Intervals: 1.58 ms, 632 Hz
+35940-36513 Gray code: Intervals: 573 탎, 1.75 kHz
+36513-37017 Gray code: Intervals: 504 탎, 1.98 kHz
+37017-37590 Gray code: Intervals: 573 탎, 1.75 kHz
+37590-39169 Gray code: Intervals: 1.57 ms, 633 Hz
+39169-39743 Gray code: Intervals: 574 탎, 1.74 kHz
+39743-41322 Gray code: Intervals: 1.57 ms, 633 Hz
+41322-41896 Gray code: Intervals: 574 탎, 1.74 kHz
+41896-42399 Gray code: Intervals: 503 탎, 1.99 kHz
+42399-42972 Gray code: Intervals: 573 탎, 1.75 kHz
+42972-44552 Gray code: Intervals: 1.58 ms, 632 Hz
+44552-45125 Gray code: Intervals: 573 탎, 1.75 kHz
+45125-46705 Gray code: Intervals: 1.58 ms, 632 Hz
+46705-47278 Gray code: Intervals: 573 탎, 1.75 kHz
+47278-48858 Gray code: Intervals: 1.58 ms, 632 Hz
+48858-49431 Gray code: Intervals: 573 탎, 1.75 kHz
+49431-51011 Gray code: Intervals: 1.58 ms, 632 Hz
+51011-51584 Gray code: Intervals: 573 탎, 1.75 kHz
+51584-53164 Gray code: Intervals: 1.58 ms, 632 Hz
+53164-53737 Gray code: Intervals: 573 탎, 1.75 kHz
+53737-55317 Gray code: Intervals: 1.58 ms, 632 Hz
+55317-55890 Gray code: Intervals: 573 탎, 1.75 kHz
+55890-56393 Gray code: Intervals: 503 탎, 1.99 kHz
+56393-56966 Gray code: Intervals: 573 탎, 1.75 kHz
+56966-58546 Gray code: Intervals: 1.58 ms, 632 Hz
+58546-59119 Gray code: Intervals: 573 탎, 1.75 kHz
+59119-59622 Gray code: Intervals: 503 탎, 1.99 kHz
+59622-60196 Gray code: Intervals: 574 탎, 1.74 kHz
+60196-60699 Gray code: Intervals: 503 탎, 1.99 kHz
+60699-61272 Gray code: Intervals: 573 탎, 1.75 kHz
+61272-61775 Gray code: Intervals: 503 탎, 1.99 kHz
+61775-62348 Gray code: Intervals: 573 탎, 1.75 kHz
+62348-62852 Gray code: Intervals: 504 탎, 1.98 kHz
+62852-63425 Gray code: Intervals: 573 탎, 1.75 kHz
+63425-63928 Gray code: Intervals: 503 탎, 1.99 kHz
+63928-64502 Gray code: Intervals: 574 탎, 1.74 kHz
+64502-65005 Gray code: Intervals: 503 탎, 1.99 kHz
+65005-65578 Gray code: Intervals: 573 탎, 1.75 kHz
+65578-66081 Gray code: Intervals: 503 탎, 1.99 kHz
+66081-66654 Gray code: Intervals: 573 탎, 1.75 kHz
+66654-67158 Gray code: Intervals: 504 탎, 1.98 kHz
+67158-67731 Gray code: Intervals: 573 탎, 1.75 kHz
+67731-69311 Gray code: Intervals: 1.58 ms, 632 Hz
+69311-69884 Gray code: Intervals: 573 탎, 1.75 kHz
+69884-70387 Gray code: Intervals: 503 탎, 1.99 kHz
+70387-70960 Gray code: Intervals: 573 탎, 1.75 kHz
+70960-72540 Gray code: Intervals: 1.58 ms, 632 Hz
+72540-73113 Gray code: Intervals: 573 탎, 1.75 kHz
+73113-74693 Gray code: Intervals: 1.58 ms, 632 Hz
+74693-75266 Gray code: Intervals: 573 탎, 1.75 kHz
+75266-75770 Gray code: Intervals: 504 탎, 1.98 kHz
+75770-76343 Gray code: Intervals: 573 탎, 1.75 kHz
+76343-76846 Gray code: Intervals: 503 탎, 1.99 kHz
+76846-77419 Gray code: Intervals: 573 탎, 1.75 kHz
+77419-78999 Gray code: Intervals: 1.58 ms, 632 Hz
+78999-79572 Gray code: Intervals: 573 탎, 1.75 kHz
+79572-81152 Gray code: Intervals: 1.58 ms, 632 Hz
+81152-81725 Gray code: Intervals: 573 탎, 1.75 kHz
+81725-82228 Gray code: Intervals: 503 탎, 1.99 kHz
+82228-82802 Gray code: Intervals: 574 탎, 1.74 kHz
+82802-84381 Gray code: Intervals: 1.57 ms, 633 Hz
+84381-84955 Gray code: Intervals: 574 탎, 1.74 kHz
+84955-85458 Gray code: Intervals: 503 탎, 1.99 kHz
+85458-86031 Gray code: Intervals: 573 탎, 1.75 kHz
+86031-86534 Gray code: Intervals: 503 탎, 1.99 kHz
+86534-87108 Gray code: Intervals: 574 탎, 1.74 kHz
+87108-88687 Gray code: Intervals: 1.57 ms, 633 Hz
+88687-89260 Gray code: Intervals: 573 탎, 1.75 kHz
+89260-90840 Gray code: Intervals: 1.58 ms, 632 Hz
+90840-91413 Gray code: Intervals: 573 탎, 1.75 kHz
+91413-96590 Gray code: Intervals: 5.17 ms, 193 Hz
+96590-101023 Gray code: Intervals: 4.43 ms, 225 Hz
+101023-105386 Gray code: Intervals: 4.36 ms, 229 Hz
+105386-105959 Gray code: Intervals: 573 탎, 1.75 kHz
+105959-107539 Gray code: Intervals: 1.58 ms, 632 Hz
+107539-108112 Gray code: Intervals: 573 탎, 1.75 kHz
+108112-108615 Gray code: Intervals: 503 탎, 1.99 kHz
+108615-109189 Gray code: Intervals: 574 탎, 1.74 kHz
+109189-110768 Gray code: Intervals: 1.57 ms, 633 Hz
+110768-111341 Gray code: Intervals: 573 탎, 1.75 kHz
+111341-112921 Gray code: Intervals: 1.58 ms, 632 Hz
+112921-113494 Gray code: Intervals: 573 탎, 1.75 kHz
+113494-113998 Gray code: Intervals: 504 탎, 1.98 kHz
+113998-114571 Gray code: Intervals: 573 탎, 1.75 kHz
+114571-115074 Gray code: Intervals: 503 탎, 1.99 kHz
+115074-115647 Gray code: Intervals: 573 탎, 1.75 kHz
+115647-117227 Gray code: Intervals: 1.58 ms, 632 Hz
+117227-117800 Gray code: Intervals: 573 탎, 1.75 kHz
+117800-118304 Gray code: Intervals: 504 탎, 1.98 kHz
+118304-118877 Gray code: Intervals: 573 탎, 1.75 kHz
+118877-119380 Gray code: Intervals: 503 탎, 1.99 kHz
+119380-119953 Gray code: Intervals: 573 탎, 1.75 kHz
+119953-121533 Gray code: Intervals: 1.58 ms, 632 Hz
+121533-122106 Gray code: Intervals: 573 탎, 1.75 kHz
+122106-122609 Gray code: Intervals: 503 탎, 1.99 kHz
+122609-123183 Gray code: Intervals: 574 탎, 1.74 kHz
+123183-123686 Gray code: Intervals: 503 탎, 1.99 kHz
+123686-124259 Gray code: Intervals: 573 탎, 1.75 kHz
+124259-125839 Gray code: Intervals: 1.58 ms, 632 Hz
+125839-126412 Gray code: Intervals: 573 탎, 1.75 kHz
+126412-127992 Gray code: Intervals: 1.58 ms, 632 Hz
+127992-128565 Gray code: Intervals: 573 탎, 1.75 kHz
+128565-129068 Gray code: Intervals: 503 탎, 1.99 kHz
+129068-129642 Gray code: Intervals: 574 탎, 1.74 kHz
+129642-131221 Gray code: Intervals: 1.57 ms, 633 Hz
+131221-131795 Gray code: Intervals: 574 탎, 1.74 kHz
+131795-133374 Gray code: Intervals: 1.57 ms, 633 Hz
+133374-133947 Gray code: Intervals: 573 탎, 1.75 kHz
+133947-134451 Gray code: Intervals: 504 탎, 1.98 kHz
+134451-135024 Gray code: Intervals: 573 탎, 1.75 kHz
+135024-136604 Gray code: Intervals: 1.58 ms, 632 Hz
+136604-137177 Gray code: Intervals: 573 탎, 1.75 kHz
+137177-138757 Gray code: Intervals: 1.58 ms, 632 Hz
+138757-139330 Gray code: Intervals: 573 탎, 1.75 kHz
+139330-140910 Gray code: Intervals: 1.58 ms, 632 Hz
+140910-141483 Gray code: Intervals: 573 탎, 1.75 kHz
+141483-143063 Gray code: Intervals: 1.58 ms, 632 Hz
+143063-143636 Gray code: Intervals: 573 탎, 1.75 kHz
+143636-145215 Gray code: Intervals: 1.57 ms, 633 Hz
+145215-145789 Gray code: Intervals: 574 탎, 1.74 kHz
+145789-147368 Gray code: Intervals: 1.57 ms, 633 Hz
+147368-147942 Gray code: Intervals: 574 탎, 1.74 kHz
+147942-148445 Gray code: Intervals: 503 탎, 1.99 kHz
+148445-149018 Gray code: Intervals: 573 탎, 1.75 kHz
+149018-150598 Gray code: Intervals: 1.58 ms, 632 Hz
+150598-151171 Gray code: Intervals: 573 탎, 1.75 kHz
+151171-151674 Gray code: Intervals: 503 탎, 1.99 kHz
+151674-152247 Gray code: Intervals: 573 탎, 1.75 kHz
+152247-152751 Gray code: Intervals: 504 탎, 1.98 kHz
+152751-153324 Gray code: Intervals: 573 탎, 1.75 kHz
+153324-153827 Gray code: Intervals: 503 탎, 1.99 kHz
+153827-154400 Gray code: Intervals: 573 탎, 1.75 kHz
+154400-154904 Gray code: Intervals: 504 탎, 1.98 kHz
+154904-155477 Gray code: Intervals: 573 탎, 1.75 kHz
+155477-155980 Gray code: Intervals: 503 탎, 1.99 kHz
+155980-156553 Gray code: Intervals: 573 탎, 1.75 kHz
+156553-157057 Gray code: Intervals: 504 탎, 1.98 kHz
+157057-157630 Gray code: Intervals: 573 탎, 1.75 kHz
+157630-158133 Gray code: Intervals: 503 탎, 1.99 kHz
+158133-158706 Gray code: Intervals: 573 탎, 1.75 kHz
+158706-159210 Gray code: Intervals: 504 탎, 1.98 kHz
+159210-159783 Gray code: Intervals: 573 탎, 1.75 kHz
+159783-161363 Gray code: Intervals: 1.58 ms, 632 Hz
+161363-161936 Gray code: Intervals: 573 탎, 1.75 kHz
+161936-162439 Gray code: Intervals: 503 탎, 1.99 kHz
+162439-163012 Gray code: Intervals: 573 탎, 1.75 kHz
+163012-164592 Gray code: Intervals: 1.58 ms, 632 Hz
+164592-165165 Gray code: Intervals: 573 탎, 1.75 kHz
+165165-166745 Gray code: Intervals: 1.58 ms, 632 Hz
+166745-167318 Gray code: Intervals: 573 탎, 1.75 kHz
+167318-167821 Gray code: Intervals: 503 탎, 1.99 kHz
+167821-168395 Gray code: Intervals: 574 탎, 1.74 kHz
+168395-168898 Gray code: Intervals: 503 탎, 1.99 kHz
+168898-169471 Gray code: Intervals: 573 탎, 1.75 kHz
+169471-171051 Gray code: Intervals: 1.58 ms, 632 Hz
+171051-171624 Gray code: Intervals: 573 탎, 1.75 kHz
+171624-173204 Gray code: Intervals: 1.58 ms, 632 Hz
+173204-173777 Gray code: Intervals: 573 탎, 1.75 kHz
+173777-174280 Gray code: Intervals: 503 탎, 1.99 kHz
+174280-174853 Gray code: Intervals: 573 탎, 1.75 kHz
+174853-176433 Gray code: Intervals: 1.58 ms, 632 Hz
+176433-177006 Gray code: Intervals: 573 탎, 1.75 kHz
+177006-177510 Gray code: Intervals: 504 탎, 1.98 kHz
+177510-178083 Gray code: Intervals: 573 탎, 1.75 kHz
+178083-178586 Gray code: Intervals: 503 탎, 1.99 kHz
+178586-179159 Gray code: Intervals: 573 탎, 1.75 kHz
+179159-180739 Gray code: Intervals: 1.58 ms, 632 Hz
+180739-181312 Gray code: Intervals: 573 탎, 1.75 kHz
+181312-182892 Gray code: Intervals: 1.58 ms, 632 Hz
+182892-183465 Gray code: Intervals: 573 탎, 1.75 kHz
+0-4539 Gray code: Averages: 4.53 ms, 220 Hz
+4539-8971 Gray code: Averages: 4.48 ms, 222 Hz
+8971-13334 Gray code: Averages: 4.44 ms, 224 Hz
+13334-13908 Gray code: Averages: 3.47 ms, 287 Hz
+13908-15487 Gray code: Averages: 3.09 ms, 322 Hz
+15487-16060 Gray code: Averages: 2.67 ms, 373 Hz
+16060-16564 Gray code: Averages: 2.36 ms, 422 Hz
+16564-17137 Gray code: Averages: 2.14 ms, 466 Hz
+17137-18717 Gray code: Averages: 2.07 ms, 480 Hz
+18717-19290 Gray code: Averages: 1.92 ms, 518 Hz
+19290-20870 Gray code: Averages: 1.63 ms, 612 Hz
+20870-21443 Gray code: Averages: 1.24 ms, 801 Hz
+21443-21946 Gray code: Averages: 861 탎, 1.16 kHz
+21946-22519 Gray code: Averages: 861 탎, 1.16 kHz
+22519-23022 Gray code: Averages: 753 탎, 1.33 kHz
+23022-23595 Gray code: Averages: 753 탎, 1.33 kHz
+23595-25175 Gray code: Averages: 861 탎, 1.16 kHz
+25175-25749 Gray code: Averages: 861 탎, 1.16 kHz
+25749-26252 Gray code: Averages: 753 탎, 1.33 kHz
+26252-26825 Gray code: Averages: 753 탎, 1.33 kHz
+26825-27328 Gray code: Averages: 645 탎, 1.55 kHz
+27328-27901 Gray code: Averages: 645 탎, 1.55 kHz
+27901-29481 Gray code: Averages: 753 탎, 1.33 kHz
+29481-30054 Gray code: Averages: 753 탎, 1.33 kHz
+30054-30558 Gray code: Averages: 753 탎, 1.33 kHz
+30558-31131 Gray code: Averages: 753 탎, 1.33 kHz
+31131-31634 Gray code: Averages: 645 탎, 1.55 kHz
+31634-32207 Gray code: Averages: 645 탎, 1.55 kHz
+32207-33787 Gray code: Averages: 753 탎, 1.33 kHz
+33787-34360 Gray code: Averages: 753 탎, 1.33 kHz
+34360-35940 Gray code: Averages: 861 탎, 1.16 kHz
+35940-36513 Gray code: Averages: 861 탎, 1.16 kHz
+36513-37017 Gray code: Averages: 753 탎, 1.33 kHz
+37017-37590 Gray code: Averages: 753 탎, 1.33 kHz
+37590-39169 Gray code: Averages: 861 탎, 1.16 kHz
+39169-39743 Gray code: Averages: 861 탎, 1.16 kHz
+39743-41322 Gray code: Averages: 968 탎, 1.03 kHz
+41322-41896 Gray code: Averages: 968 탎, 1.03 kHz
+41896-42399 Gray code: Averages: 861 탎, 1.16 kHz
+42399-42972 Gray code: Averages: 861 탎, 1.16 kHz
+42972-44552 Gray code: Averages: 861 탎, 1.16 kHz
+44552-45125 Gray code: Averages: 861 탎, 1.16 kHz
+45125-46705 Gray code: Averages: 968 탎, 1.03 kHz
+46705-47278 Gray code: Averages: 968 탎, 1.03 kHz
+47278-48858 Gray code: Averages: 968 탎, 1.03 kHz
+48858-49431 Gray code: Averages: 968 탎, 1.03 kHz
+49431-51011 Gray code: Averages: 968 탎, 1.03 kHz
+51011-51584 Gray code: Averages: 968 탎, 1.03 kHz
+51584-53164 Gray code: Averages: 1.07 ms, 928 Hz
+53164-53737 Gray code: Averages: 1.07 ms, 928 Hz
+53737-55317 Gray code: Averages: 1.07 ms, 928 Hz
+55317-55890 Gray code: Averages: 1.07 ms, 928 Hz
+55890-56393 Gray code: Averages: 968 탎, 1.03 kHz
+56393-56966 Gray code: Averages: 968 탎, 1.03 kHz
+56966-58546 Gray code: Averages: 968 탎, 1.03 kHz
+58546-59119 Gray code: Averages: 968 탎, 1.03 kHz
+59119-59622 Gray code: Averages: 861 탎, 1.16 kHz
+59622-60196 Gray code: Averages: 861 탎, 1.16 kHz
+60196-60699 Gray code: Averages: 753 탎, 1.33 kHz
+60699-61272 Gray code: Averages: 753 탎, 1.33 kHz
+61272-61775 Gray code: Averages: 645 탎, 1.55 kHz
+61775-62348 Gray code: Averages: 645 탎, 1.55 kHz
+62348-62852 Gray code: Averages: 645 탎, 1.55 kHz
+62852-63425 Gray code: Averages: 645 탎, 1.55 kHz
+63425-63928 Gray code: Averages: 538 탎, 1.86 kHz
+63928-64502 Gray code: Averages: 538 탎, 1.86 kHz
+64502-65005 Gray code: Averages: 538 탎, 1.86 kHz
+65005-65578 Gray code: Averages: 538 탎, 1.86 kHz
+65578-66081 Gray code: Averages: 538 탎, 1.86 kHz
+66081-66654 Gray code: Averages: 538 탎, 1.86 kHz
+66654-67158 Gray code: Averages: 538 탎, 1.86 kHz
+67158-67731 Gray code: Averages: 538 탎, 1.86 kHz
+67731-69311 Gray code: Averages: 645 탎, 1.55 kHz
+69311-69884 Gray code: Averages: 645 탎, 1.55 kHz
+69884-70387 Gray code: Averages: 645 탎, 1.55 kHz
+70387-70960 Gray code: Averages: 645 탎, 1.55 kHz
+70960-72540 Gray code: Averages: 753 탎, 1.33 kHz
+72540-73113 Gray code: Averages: 753 탎, 1.33 kHz
+73113-74693 Gray code: Averages: 861 탎, 1.16 kHz
+74693-75266 Gray code: Averages: 861 탎, 1.16 kHz
+75266-75770 Gray code: Averages: 861 탎, 1.16 kHz
+75770-76343 Gray code: Averages: 861 탎, 1.16 kHz
+76343-76846 Gray code: Averages: 753 탎, 1.33 kHz
+76846-77419 Gray code: Averages: 753 탎, 1.33 kHz
+77419-78999 Gray code: Averages: 861 탎, 1.16 kHz
+78999-79572 Gray code: Averages: 861 탎, 1.16 kHz
+79572-81152 Gray code: Averages: 861 탎, 1.16 kHz
+81152-81725 Gray code: Averages: 861 탎, 1.16 kHz
+81725-82228 Gray code: Averages: 753 탎, 1.33 kHz
+82228-82802 Gray code: Averages: 753 탎, 1.33 kHz
+82802-84381 Gray code: Averages: 861 탎, 1.16 kHz
+84381-84955 Gray code: Averages: 861 탎, 1.16 kHz
+84955-85458 Gray code: Averages: 861 탎, 1.16 kHz
+85458-86031 Gray code: Averages: 861 탎, 1.16 kHz
+86031-86534 Gray code: Averages: 753 탎, 1.33 kHz
+86534-87108 Gray code: Averages: 753 탎, 1.33 kHz
+87108-88687 Gray code: Averages: 753 탎, 1.33 kHz
+88687-89260 Gray code: Averages: 753 탎, 1.33 kHz
+89260-90840 Gray code: Averages: 861 탎, 1.16 kHz
+90840-91413 Gray code: Averages: 861 탎, 1.16 kHz
+91413-96590 Gray code: Averages: 1.22 ms, 819 Hz
+96590-101023 Gray code: Averages: 1.60 ms, 622 Hz
+101023-105386 Gray code: Averages: 1.99 ms, 501 Hz
+105386-105959 Gray code: Averages: 1.99 ms, 501 Hz
+105959-107539 Gray code: Averages: 2.10 ms, 476 Hz
+107539-108112 Gray code: Averages: 2.10 ms, 476 Hz
+108112-108615 Gray code: Averages: 1.99 ms, 501 Hz
+108615-109189 Gray code: Averages: 1.99 ms, 501 Hz
+109189-110768 Gray code: Averages: 1.99 ms, 501 Hz
+110768-111341 Gray code: Averages: 1.99 ms, 501 Hz
+111341-112921 Gray code: Averages: 1.63 ms, 612 Hz
+112921-113494 Gray code: Averages: 1.24 ms, 801 Hz
+113494-113998 Gray code: Averages: 861 탎, 1.16 kHz
+113998-114571 Gray code: Averages: 861 탎, 1.16 kHz
+114571-115074 Gray code: Averages: 753 탎, 1.33 kHz
+115074-115647 Gray code: Averages: 753 탎, 1.33 kHz
+115647-117227 Gray code: Averages: 861 탎, 1.16 kHz
+117227-117800 Gray code: Averages: 861 탎, 1.16 kHz
+117800-118304 Gray code: Averages: 753 탎, 1.33 kHz
+118304-118877 Gray code: Averages: 753 탎, 1.33 kHz
+118877-119380 Gray code: Averages: 645 탎, 1.55 kHz
+119380-119953 Gray code: Averages: 645 탎, 1.55 kHz
+119953-121533 Gray code: Averages: 753 탎, 1.33 kHz
+121533-122106 Gray code: Averages: 753 탎, 1.33 kHz
+122106-122609 Gray code: Averages: 753 탎, 1.33 kHz
+122609-123183 Gray code: Averages: 753 탎, 1.33 kHz
+123183-123686 Gray code: Averages: 645 탎, 1.55 kHz
+123686-124259 Gray code: Averages: 645 탎, 1.55 kHz
+124259-125839 Gray code: Averages: 753 탎, 1.33 kHz
+125839-126412 Gray code: Averages: 753 탎, 1.33 kHz
+126412-127992 Gray code: Averages: 861 탎, 1.16 kHz
+127992-128565 Gray code: Averages: 861 탎, 1.16 kHz
+128565-129068 Gray code: Averages: 753 탎, 1.33 kHz
+129068-129642 Gray code: Averages: 753 탎, 1.33 kHz
+129642-131221 Gray code: Averages: 861 탎, 1.16 kHz
+131221-131795 Gray code: Averages: 861 탎, 1.16 kHz
+131795-133374 Gray code: Averages: 968 탎, 1.03 kHz
+133374-133947 Gray code: Averages: 968 탎, 1.03 kHz
+133947-134451 Gray code: Averages: 861 탎, 1.16 kHz
+134451-135024 Gray code: Averages: 861 탎, 1.16 kHz
+135024-136604 Gray code: Averages: 861 탎, 1.16 kHz
+136604-137177 Gray code: Averages: 861 탎, 1.16 kHz
+137177-138757 Gray code: Averages: 968 탎, 1.03 kHz
+138757-139330 Gray code: Averages: 968 탎, 1.03 kHz
+139330-140910 Gray code: Averages: 968 탎, 1.03 kHz
+140910-141483 Gray code: Averages: 968 탎, 1.03 kHz
+141483-143063 Gray code: Averages: 968 탎, 1.03 kHz
+143063-143636 Gray code: Averages: 968 탎, 1.03 kHz
+143636-145215 Gray code: Averages: 1.07 ms, 929 Hz
+145215-145789 Gray code: Averages: 1.07 ms, 928 Hz
+145789-147368 Gray code: Averages: 1.07 ms, 929 Hz
+147368-147942 Gray code: Averages: 1.07 ms, 928 Hz
+147942-148445 Gray code: Averages: 968 탎, 1.03 kHz
+148445-149018 Gray code: Averages: 968 탎, 1.03 kHz
+149018-150598 Gray code: Averages: 968 탎, 1.03 kHz
+150598-151171 Gray code: Averages: 968 탎, 1.03 kHz
+151171-151674 Gray code: Averages: 861 탎, 1.16 kHz
+151674-152247 Gray code: Averages: 861 탎, 1.16 kHz
+152247-152751 Gray code: Averages: 753 탎, 1.33 kHz
+152751-153324 Gray code: Averages: 753 탎, 1.33 kHz
+153324-153827 Gray code: Averages: 645 탎, 1.55 kHz
+153827-154400 Gray code: Averages: 645 탎, 1.55 kHz
+154400-154904 Gray code: Averages: 645 탎, 1.55 kHz
+154904-155477 Gray code: Averages: 645 탎, 1.55 kHz
+155477-155980 Gray code: Averages: 538 탎, 1.86 kHz
+155980-156553 Gray code: Averages: 538 탎, 1.86 kHz
+156553-157057 Gray code: Averages: 538 탎, 1.86 kHz
+157057-157630 Gray code: Averages: 538 탎, 1.86 kHz
+157630-158133 Gray code: Averages: 538 탎, 1.86 kHz
+158133-158706 Gray code: Averages: 538 탎, 1.86 kHz
+158706-159210 Gray code: Averages: 538 탎, 1.86 kHz
+159210-159783 Gray code: Averages: 538 탎, 1.86 kHz
+159783-161363 Gray code: Averages: 645 탎, 1.55 kHz
+161363-161936 Gray code: Averages: 645 탎, 1.55 kHz
+161936-162439 Gray code: Averages: 645 탎, 1.55 kHz
+162439-163012 Gray code: Averages: 645 탎, 1.55 kHz
+163012-164592 Gray code: Averages: 753 탎, 1.33 kHz
+164592-165165 Gray code: Averages: 753 탎, 1.33 kHz
+165165-166745 Gray code: Averages: 861 탎, 1.16 kHz
+166745-167318 Gray code: Averages: 861 탎, 1.16 kHz
+167318-167821 Gray code: Averages: 861 탎, 1.16 kHz
+167821-168395 Gray code: Averages: 861 탎, 1.16 kHz
+168395-168898 Gray code: Averages: 753 탎, 1.33 kHz
+168898-169471 Gray code: Averages: 753 탎, 1.33 kHz
+169471-171051 Gray code: Averages: 861 탎, 1.16 kHz
+171051-171624 Gray code: Averages: 861 탎, 1.16 kHz
+171624-173204 Gray code: Averages: 861 탎, 1.16 kHz
+173204-173777 Gray code: Averages: 861 탎, 1.16 kHz
+173777-174280 Gray code: Averages: 753 탎, 1.33 kHz
+174280-174853 Gray code: Averages: 753 탎, 1.33 kHz
+174853-176433 Gray code: Averages: 861 탎, 1.16 kHz
+176433-177006 Gray code: Averages: 861 탎, 1.16 kHz
+177006-177510 Gray code: Averages: 861 탎, 1.16 kHz
+177510-178083 Gray code: Averages: 861 탎, 1.16 kHz
+178083-178586 Gray code: Averages: 753 탎, 1.33 kHz
+178586-179159 Gray code: Averages: 753 탎, 1.33 kHz
+179159-180739 Gray code: Averages: 753 탎, 1.33 kHz
+180739-181312 Gray code: Averages: 753 탎, 1.33 kHz
+181312-182892 Gray code: Averages: 861 탎, 1.16 kHz
+182892-183465 Gray code: Averages: 861 탎, 1.16 kHz
